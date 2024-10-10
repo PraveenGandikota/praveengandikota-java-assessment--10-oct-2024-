@@ -1,7 +1,7 @@
 import shapes.*;
 import java.util.Scanner;
 
-public class ShapeApp {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
